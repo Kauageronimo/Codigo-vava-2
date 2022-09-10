@@ -2,7 +2,7 @@ programa {
     
 	funcao inicio() {
 	    
-	real vetor[10]
+	inteiro vetor[10]
 	
 	inteiro contador
 	
