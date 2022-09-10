@@ -16,7 +16,7 @@ programa {
 	    
 	}
 
-		escreva (vetor[5],vetor[6],vetor[7])
+		escreva (vetor[5],"\n",vetor[6],"\n",vetor[7])
 	}
 	
 	
